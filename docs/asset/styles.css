@@ -8,7 +8,7 @@
     color: #ce5f5f
 }
 .font1 {
-    font-family: 'Open Sans', sans-serif
+    font-family: 'Open Sans', sans-serif, 'Microsoft JhengHei'
 }
 .bold {
     font-weight: 700
@@ -20,7 +20,7 @@
     background-size: cover
 }
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif, 'Microsoft JhengHei';
     background: #3b658a url('bg.jpg') repeat-x center top fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
